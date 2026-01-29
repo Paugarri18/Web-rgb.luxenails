@@ -17,7 +17,7 @@ Hola quiero pedir cita para uñas.
  Comentario: ${mensaje}
   `;
 
-  
+
 });
 
 
